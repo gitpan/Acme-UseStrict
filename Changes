@@ -5,7 +5,10 @@ Created:      2011-12-06
 Home page:    <https://metacpan.org/release/Acme-UseStrict>
 Bug tracker:  <http://rt.cpan.org/Dist/Display.html?Queue=Acme-UseStrict>
 
-0.995  2011-12-06
-# Initial release
+1.234  2013-05-20
+
+ - smartmatch -> match::smart
+
+0.995  2011-12-06  # Initial release
 
 
