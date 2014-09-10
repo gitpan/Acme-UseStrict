@@ -28,8 +28,8 @@ DESCRIPTION
      "use strict";
 
     It is received wisdom that Perl has an ugly syntax, so it naturally
-    follows that any change to make Perl's syntax closer to Javascript will
-    be welcome.
+    follows that any change to make Perl's syntax closer to Javascript will be
+    welcome.
 
     This module allows you use use strict by simply including the string
     constant "use strict" anywhere in a scope.
@@ -58,8 +58,8 @@ DESCRIPTION
 
      use Acme::UseStrict [qw/complain whine moan grumble/];
 
-    Or basically anything that works as a right-hand-side with the smart
-    match operator.
+    Or basically anything that works as a right-hand-side with the smart match
+    operator.
 
   unimport
     You can disable this module for a lexical scope using:
@@ -73,8 +73,7 @@ DESCRIPTION
        ? 'mind your language'
        : 'curse freely';
 
-    Note that this checks if this module is enabled; not if strict is
-    enabled.
+    Note that this checks if this module is enabled; not if strict is enabled.
 
 BUGS
     Please report any bugs to
@@ -89,8 +88,8 @@ AUTHOR
 COPYRIGHT AND LICENCE
     This software is copyright (c) 2011, 2013 by Toby Inkster.
 
-    This is free software; you can redistribute it and/or modify it under
-    the same terms as the Perl 5 programming language system itself.
+    This is free software; you can redistribute it and/or modify it under the
+    same terms as the Perl 5 programming language system itself.
 
 DISCLAIMER OF WARRANTIES
     THIS PACKAGE IS PROVIDED "AS IS" AND WITHOUT ANY EXPRESS OR IMPLIED
